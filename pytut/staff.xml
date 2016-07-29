@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<company>
+	<name>Mkyong Enterprise</name>
+	<staff id="1001&#xA;1004">
+		<nickname>mkyong&#xA;mkydfdf</nickname>
+		<salary><![CDATA[Hund&#xA;Hund]]></salary>
+	</staff>
+	<staff id="1002&#xA;1005">
+		<nickname>yflow</nickname>
+		<salary>200,000</salary>
+	</staff>
+	<staff id="1003&#xA;1006">
+		<nickname>alex</nickname>
+		<salary>20,000</salary>
+	</staff>
+</company>
